@@ -1,7 +1,8 @@
 repo_name: yuliroth/node-multiparty
 report_id: b26870c5f7c6069ae58b542406d2a028
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-22T15:08:48+00:00'
+timestamp: '2024-01-05T08:35:54+00:00'
 requested_by: andrewrk
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/yuliroth/node-multiparty
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yuliroth/node-multiparty
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/yuliroth/node-multiparty/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Andrew Kelley
   last_updated_on: 2014-12-04 21:52:50.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/yuliroth/node-multiparty/blob/master/package.json
   detection_source: package.json
   last_updated_by: Felix Geisendörfer
   last_updated_on: 2011-04-13 20:42:17.000000000 Z
@@ -55,6 +60,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/yuliroth/node-multiparty/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andrew Kelley
   last_updated_on: 2014-12-04 21:20:58.000000000 Z
@@ -70,7 +76,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15833/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuliroth/node-multiparty/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andrew Kelley
   last_updated_on: 2014-12-04 21:52:50.000000000 Z
@@ -84,7 +90,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuliroth/node-multiparty/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andrew Kelley
   last_updated_on: 2014-07-03 18:54:57.000000000 Z
@@ -98,7 +104,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuliroth/node-multiparty/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andrew Kelley
   last_updated_on: 2014-07-03 18:54:57.000000000 Z
@@ -112,7 +118,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuliroth/node-multiparty/blob/master/package.json
   detection_source: package.json
   last_updated_by: Andrew Kelley
   last_updated_on: 2014-12-04 21:20:58.000000000 Z
